@@ -1,0 +1,15 @@
+.emoji-icon {
+  width: 100px;
+}
+
+.emoji-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.emoji-btn {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
